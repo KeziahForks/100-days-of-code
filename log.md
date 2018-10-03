@@ -1,48 +1,42 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 24, 2018
+### Day 1: September 24, 2018
 
 **Today's Progress**: Add a folder to showcase some .pdf documents to others and fix some typo on my website.
 
 **Link to work:** [keziahmoselle.github.io](https://github.com/KeziahMoselle/keziahmoselle.github.io)
 
-### Day 1: September 25, 2018
+### Day 2: September 25, 2018
 
 **Today's Progress**: Just review my first pull request because I get my first contributor !
 
 **Link to work:** [gelbooru-client #15](https://github.com/KeziahMoselle/gelbooru-client/pull/15)
 
-### Day 2: September 26, 2018
+### Day 3: September 26, 2018
 
 **Today's Progress**: Just learned how to update --var in CSS with JavaScript, and played with that to create a "Theme customization" !
 
 **Link to work:** [gelbooru-client commit](https://github.com/KeziahMoselle/gelbooru-client/commit/b72efcb2ce6ed14f675139844227b01a146932a4)
 
-### Day 3: September 27, 2018
+### Day 4: September 27, 2018
 
 **Today's Progress**: Tried to learn electron-builder but failed, so I didn't really code, just some architecture update and remove unecessary dependencies.
 
 **Link to work:** [gelbooru-client commits](https://github.com/KeziahMoselle/gelbooru-client/commits?author=KeziahMoselle&since=2018-09-26T22:00:00Z&until=2018-09-27T22:00:00Z)
 
-### Day 4: September 28, 2018
+### Day 5: September 28, 2018
 
 **Today's Progress**: I wanted to write clean code so I installed one of the most popular code style for JavaScript : StandardJS, and started to refactoring my code to follow their rules.
 
 **Link to work:** [gelbooru-client commits](https://github.com/KeziahMoselle/gelbooru-client/commits?author=KeziahMoselle&since=2018-09-27T22:00:00Z&until=2018-09-28T22:00:00Z)
 
-### Day 5: September 29, 2018
+### Day 6: September 29, 2018
 
 **Today's Progress**: I continue to refactor my code (because there was many errors). I also worked on the first pull request I have received, I read and translate a jQuery code to find his equivalent in vanilla JS.
 
 **Link to work:** [gelbooru-client commits](https://github.com/KeziahMoselle/gelbooru-client/commits?author=KeziahMoselle&since=2018-09-28T22:00:00Z&until=2018-09-29T22:00:00Z)
 
-### Day 6: September 30, 2018
-
-**Today's Progress**: 
-
-**Link to work:** [gelbooru-client](https://github.com/KeziahMoselle/gelbooru-client/)
-
-### Day 7: September 31, 2018
+### Day 8: September 30, 2018
 
 **Today's Progress**: For the first time I contributed to an another repository, I managed to get this app running on Windows and create an another pull request to add a functionnality (Set username when we launch the app)
 
@@ -58,13 +52,13 @@ Also I integrate Wakatime tracker on my website ! [keziahmoselle.github.io](http
 
 **Link to work:** [streaker first PR](https://github.com/jamieweavis/streaker/pull/9) | [streaker second PR](https://github.com/jamieweavis/streaker/pull/10)
 
-### Day 8: October 1, 2018
+### Day 9: October 1, 2018
 
 **Today's Progress**: I learned more about Tray in ElectronJS.
 
 **Link to work:** [streaker commits](https://github.com/jamieweavis/streaker/commits?author=KeziahMoselle&since=2018-09-30T22:00:00Z&until=2018-10-01T22:00:00Z)
 
-### Day 9: October 2, 2018
+### Day 10: October 2, 2018
 
 **Today's Progress**: Learned about the navigator global and his .onLine property, so I replace the illustration when the navigator.onLine return false !
 
@@ -72,7 +66,7 @@ And I worked on my Discord bot, "gelbooru-bot",I cleaned the code with StandardJ
 
 **Link to work:** [gelbooru-client commit](https://github.com/KeziahMoselle/gelbooru-client/commit/ac579e4fe64c3b7ce6fdf500549186dd432c7580) | [gelbooru bot commit](https://github.com/KeziahMoselle/gelbooru-bot/commit/e5307a151b2752c889710a04ce548c811cefe424)
 
-### Day 10: October 3, 2018
+### Day 11: October 3, 2018
 
 **Today's Progress**: I fixed an issue on my repository : [#24](https://github.com/KeziahMoselle/gelbooru-client/issues/24), I learned about the `.removeEventListener()` function, and in the same time this function help me to have a more readable code.
 
