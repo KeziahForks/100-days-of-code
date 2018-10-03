@@ -36,7 +36,7 @@
 
 **Link to work:** [gelbooru-client commits](https://github.com/KeziahMoselle/gelbooru-client/commits?author=KeziahMoselle&since=2018-09-28T22:00:00Z&until=2018-09-29T22:00:00Z)
 
-### Day 8: September 30, 2018
+### Day 7: September 30, 2018
 
 **Today's Progress**: For the first time I contributed to an another repository, I managed to get this app running on Windows and create an another pull request to add a functionnality (Set username when we launch the app)
 
@@ -52,13 +52,13 @@ Also I integrate Wakatime tracker on my website ! [keziahmoselle.github.io](http
 
 **Link to work:** [streaker first PR](https://github.com/jamieweavis/streaker/pull/9) | [streaker second PR](https://github.com/jamieweavis/streaker/pull/10)
 
-### Day 9: October 1, 2018
+### Day 8: October 1, 2018
 
 **Today's Progress**: I learned more about Tray in ElectronJS.
 
 **Link to work:** [streaker commits](https://github.com/jamieweavis/streaker/commits?author=KeziahMoselle&since=2018-09-30T22:00:00Z&until=2018-10-01T22:00:00Z)
 
-### Day 10: October 2, 2018
+### Day 9: October 2, 2018
 
 **Today's Progress**: Learned about the navigator global and his .onLine property, so I replace the illustration when the navigator.onLine return false !
 
@@ -66,10 +66,12 @@ And I worked on my Discord bot, "gelbooru-bot",I cleaned the code with StandardJ
 
 **Link to work:** [gelbooru-client commit](https://github.com/KeziahMoselle/gelbooru-client/commit/ac579e4fe64c3b7ce6fdf500549186dd432c7580) | [gelbooru bot commit](https://github.com/KeziahMoselle/gelbooru-bot/commit/e5307a151b2752c889710a04ce548c811cefe424)
 
-### Day 11: October 3, 2018
+### Day 10: October 3, 2018
 
 **Today's Progress**: I fixed an issue on my repository : [#24](https://github.com/KeziahMoselle/gelbooru-client/issues/24), I learned about the `.removeEventListener()` function, and in the same time this function help me to have a more readable code.
 
 And I wanted to switch to Yarn for this repository for a long time but I only did today.
+
+Also, joined the #100DaysOfCode challenge !
 
 **Link to work:** [gelbooru-client commit](https://github.com/KeziahMoselle/gelbooru-client/commit/080ae213be58a7c7a1a8ff16e535485b099789dd)
