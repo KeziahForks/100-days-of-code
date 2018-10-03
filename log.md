@@ -1,30 +1,81 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 24, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Add a folder to showcase some .pdf documents to others and fix some typo on my website.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [keziahmoselle.github.io](https://github.com/KeziahMoselle/keziahmoselle.github.io)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: September 25, 2018
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Just review my first pull request because I get my first contributor !
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [gelbooru-client #15](https://github.com/KeziahMoselle/gelbooru-client/pull/15)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: September 26, 2018
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Just learned how to update --var in CSS with JavaScript, and played with that to create a "Theme customization" !
 
+**Link to work:** [gelbooru-client commit](https://github.com/KeziahMoselle/gelbooru-client/commit/b72efcb2ce6ed14f675139844227b01a146932a4)
 
-### Day 1: June 27, Monday
+### Day 3: September 27, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Tried to learn electron-builder but failed, so I didn't really code, just some architecture update and remove unecessary dependencies.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** [gelbooru-client commits](https://github.com/KeziahMoselle/gelbooru-client/commits?author=KeziahMoselle&since=2018-09-26T22:00:00Z&until=2018-09-27T22:00:00Z)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 4: September 28, 2018
+
+**Today's Progress**: I wanted to write clean code so I installed one of the most popular code style for JavaScript : StandardJS, and started to refactoring my code to follow their rules.
+
+**Link to work:** [gelbooru-client commits](https://github.com/KeziahMoselle/gelbooru-client/commits?author=KeziahMoselle&since=2018-09-27T22:00:00Z&until=2018-09-28T22:00:00Z)
+
+### Day 5: September 29, 2018
+
+**Today's Progress**: I continue to refactor my code (because there was many errors). I also worked on the first pull request I have received, I read and translate a jQuery code to find his equivalent in vanilla JS.
+
+**Link to work:** [gelbooru-client commits](https://github.com/KeziahMoselle/gelbooru-client/commits?author=KeziahMoselle&since=2018-09-28T22:00:00Z&until=2018-09-29T22:00:00Z)
+
+### Day 6: September 30, 2018
+
+**Today's Progress**: 
+
+**Link to work:** [gelbooru-client](https://github.com/KeziahMoselle/gelbooru-client/)
+
+### Day 7: September 31, 2018
+
+**Today's Progress**: For the first time I contributed to an another repository, I managed to get this app running on Windows and create an another pull request to add a functionnality (Set username when we launch the app)
+
+On gelbooru-client, I discovered the
+```js
+"oneClick": false,
+"allowToChangeInstallationDirectory": true
+```
+And add it to my app ! Because it's important to have the choice of the installation folder.
+Also I fixed [Images are not being retrived](https://github.com/KeziahMoselle/gelbooru-client/issues/22). I learned from that issue because I really need to think more about error handling.
+
+Also I integrate Wakatime tracker on my website ! [keziahmoselle.github.io](https://keziahmoselle.github.io/) the .svg at the bottom ! And struggled to add responsive to it.
+
+**Link to work:** [streaker first PR](https://github.com/jamieweavis/streaker/pull/9) | [streaker second PR](https://github.com/jamieweavis/streaker/pull/10)
+
+### Day 8: October 1, 2018
+
+**Today's Progress**: I learned more about Tray in ElectronJS.
+
+**Link to work:** [streaker commits](https://github.com/jamieweavis/streaker/commits?author=KeziahMoselle&since=2018-09-30T22:00:00Z&until=2018-10-01T22:00:00Z)
+
+### Day 9: October 2, 2018
+
+**Today's Progress**: Learned about the navigator global and his .onLine property, so I replace the illustration when the navigator.onLine return false !
+
+And I worked on my Discord bot, "gelbooru-bot",I cleaned the code with StandardJS and add a little functionnality : Fetch 5 images with a flag `-5`. I wanted to use RegeX but really struggled to find the right one, so finally I write some sphaghetti code. One of my goal now is to learn how to use RegeX to properly parse user input.
+
+**Link to work:** [gelbooru-client commit](https://github.com/KeziahMoselle/gelbooru-client/commit/ac579e4fe64c3b7ce6fdf500549186dd432c7580) | [gelbooru bot commit](https://github.com/KeziahMoselle/gelbooru-bot/commit/e5307a151b2752c889710a04ce548c811cefe424)
+
+### Day 10: October 3, 2018
+
+**Today's Progress**: I fixed an issue on my repository : [#24](https://github.com/KeziahMoselle/gelbooru-client/issues/24), I learned about the `.removeEventListener()` function, and in the same time this function help me to have a more readable code.
+
+And I wanted to switch to Yarn for this repository for a long time but I only did today.
+
+**Link to work:** [gelbooru-client commit](https://github.com/KeziahMoselle/gelbooru-client/commit/080ae213be58a7c7a1a8ff16e535485b099789dd)
