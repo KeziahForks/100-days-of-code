@@ -75,3 +75,9 @@ And I wanted to switch to Yarn for this repository for a long time but I only di
 Also, joined the #100DaysOfCode challenge !
 
 **Link to work:** [gelbooru-client commit](https://github.com/KeziahMoselle/gelbooru-client/commit/080ae213be58a7c7a1a8ff16e535485b099789dd)
+
+### Day 11: October 4, 2018
+
+**Today's Progress**: Today I created a pull request to the Streaker repository, it adds a native notification when the user hadn't contributed this day. I wanted to use async await function but I failed actually.
+
+**Link to work:** [gelbooru-client commit](https://github.com/jamieweavis/streaker/pull/11/)
