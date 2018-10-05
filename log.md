@@ -83,3 +83,9 @@ Also, joined the #100DaysOfCode challenge !
 On gelbooru-client I added the auto updater feature of Electron Builder.
 
 **Link to work:** [gelbooru-client commit](https://github.com/jamieweavis/streaker/pull/11/) | [gelbooru-client PR](https://github.com/KeziahMoselle/gelbooru-client/pull/25)
+
+### Day 12: October 5, 2018
+
+**Today's Progress**: Update my personal website, add little scroll reveal animations and tooltip for some lang/tech icons.
+
+**Link to work:** [keziahmoselle.github.io](https://keziahmoselle.github.io/)
