@@ -89,3 +89,9 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: Update my personal website, add little scroll reveal animations and tooltip for some lang/tech icons.
 
 **Link to work:** [keziahmoselle.github.io](https://keziahmoselle.github.io/)
+
+### Day 13: October 6, 2018
+
+**Today's Progress**: I learned more about Promises and Async/Await in ES6 !
+
+**Link to work:** [Streaker PR #11](https://github.com/jamieweavis/streaker/pull/11)
