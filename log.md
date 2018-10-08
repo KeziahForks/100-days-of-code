@@ -95,3 +95,15 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: I learned more about Promises and Async/Await in ES6 !
 
 **Link to work:** [Streaker PR #11](https://github.com/jamieweavis/streaker/pull/11)
+
+### Day 14: October 7, 2018
+
+**Today's Progress**: I wanted to add lazy loading for a project, and I discovered the IntersectionObserver API, played with that but unfortunately it works at 50% :(
+
+**Link to work:** [gelbooru-client commit](https://github.com/KeziahMoselle/gelbooru-client/commit/c728195908ecc1307d6ec765cdd8a2f4ca4e397e)
+
+### Day 15: October 8, 2018
+
+**Today's Progress**: I tried to clean my code on my Discord bot project, learn how to export / require modules, and I worked a little on the bot itself.
+
+**Link to work:** [gelbooru-bot](https://github.com/KeziahMoselle/gelbooru-bot)
