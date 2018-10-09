@@ -107,3 +107,9 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: I tried to clean my code on my Discord bot project, learn how to export / require modules, and I worked a little on the bot itself.
 
 **Link to work:** [gelbooru-bot](https://github.com/KeziahMoselle/gelbooru-bot)
+
+### Day 16: October 9, 2018
+
+**Today's Progress**: Started learning VueJS today, Hope it will help me to get a cleaner and more maintainable code.
+
+**Link to work:** No project at the moment.
