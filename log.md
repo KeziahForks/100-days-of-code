@@ -113,3 +113,27 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: Started learning VueJS today, Hope it will help me to get a cleaner and more maintainable code.
 
 **Link to work:** No project at the moment.
+
+### Day 17: October 10, 2018
+
+**Today's Progress**: I continue to improve my website, animations, details, add section.. need to fix table responsive :/
+
+**Link to work:** [keziahmoselle.github.io](https://keziahmoselle.github.io/)
+
+### Day 18: October 11, 2018
+
+**Today's Progress**: Improve my website, fix responsiveness. But I struggle to find a way to add a case study for each of my projects, not a modal or something ... idk. Codrops is a great website it inspires me but it's too hard to implement and understand :(
+
+**Link to work:** [keziahmoselle.github.io](https://keziahmoselle.github.io/)
+
+### Day 19: October 12, 2018
+
+**Today's Progress**: CORS is great but it's annoying me xD, I wasn't productive today tho.
+
+**Link to work:** [keziahmoselle.github.io](https://keziahmoselle.github.io/)
+
+### Day 20: October 13, 2018
+
+**Today's Progress**: Improve my website but without inspiration... These days i'm not productive at all, it's kind of boring tbh, hope it will get better soon
+
+**Link to work:** [keziahmoselle.github.io](https://keziahmoselle.github.io/)
