@@ -137,3 +137,9 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: Improve my website but without inspiration... These days i'm not productive at all, it's kind of boring tbh, hope it will get better soon
 
 **Link to work:** [keziahmoselle.github.io](https://keziahmoselle.github.io/)
+
+### Day 21: October 14, 2018
+
+**Today's Progress**: Try to fix CSS issues, don't figure out where the problem is.
+
+**Link to work:** [gelbooru-client issue #17](https://github.com/KeziahMoselle/gelbooru-client/issues/17)
