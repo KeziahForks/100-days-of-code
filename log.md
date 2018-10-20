@@ -149,3 +149,27 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: Learning VueJS, played with basics
 
 **Link to work:** [codepen](https://codepen.io/KeziahMoselle/pen/oaoWOa)
+
+### Day 23: October 16, 2018
+
+**Today's Progress**: Worked on an open source project, played with CRON tasks to schedule native notifications ! (My objective is to add a feature which able us to configure the time when the notification occurs)
+
+**Link to work:** [Streaker PR #11](https://github.com/jamieweavis/streaker/pull/11)
+
+### Day 24: October 17, 2018
+
+**Today's Progress**: Learned about VueJS basic components, props and interaction with parents. And I want in the near future use @vuetifyjs for my personal website, looks awesome !
+
+**Link to work:** N/A
+
+### Day 25: October 18, 2018
+
+**Today's Progress**: My third pull request has been merged today, i'm happy. And I'm working on an another pull request to implement an another feature, learning Bulma at the same time !
+
+**Link to work:** [PR Merged](https://github.com/jamieweavis/streaker/pull/11) | [Streaker PR #13](https://github.com/jamieweavis/streaker/pull/13)
+
+### Day 26: October 19, 2018
+
+**Today's Progress**: Did a preferences window for a little tray app ! Made with Bulma.io !
+
+**Link to work:** [Streaker PR #13](https://github.com/jamieweavis/streaker/pull/13)
