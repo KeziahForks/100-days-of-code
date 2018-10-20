@@ -173,3 +173,9 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: Did a preferences window for a little tray app ! Made with Bulma.io !
 
 **Link to work:** [Streaker PR #13](https://github.com/jamieweavis/streaker/pull/13)
+
+### Day 27: October 20, 2018
+
+**Today's Progress**: Did some inputs data validation and I contribute to a repository, I added a reject() to catch on the promise, it's nothing but it makes me happy
+
+**Link to work:** [Inputs data validation](https://github.com/jamieweavis/streaker/pull/13) | [Another PR](https://github.com/jamieweavis/contribution/pull/3)
