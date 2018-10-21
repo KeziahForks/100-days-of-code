@@ -182,6 +182,6 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 
 ### Day 28: October 21, 2018
 
-**Today's Progress**: Did a part of `Object Oriented Programming` from the FCC.
+**Today's Progress**: Did a part of `Object Oriented Programming` in JavaScript from the FCC. Because I really need to switch to the OOP paradigm
 
 **Link to work:** N/A
