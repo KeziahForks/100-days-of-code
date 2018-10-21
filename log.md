@@ -179,3 +179,9 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: Did some inputs data validation and I contribute to a repository, I added a reject() to catch on the promise, it's nothing but it makes me happy
 
 **Link to work:** [Inputs data validation](https://github.com/jamieweavis/streaker/pull/13) | [Another PR](https://github.com/jamieweavis/contribution/pull/3)
+
+### Day 28: October 21, 2018
+
+**Today's Progress**: Did a part of `Object Oriented Programming` from the FCC.
+
+**Link to work:** N/A
