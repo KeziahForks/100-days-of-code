@@ -185,3 +185,9 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: Did a part of `Object Oriented Programming` in JavaScript from the FCC. Because I really need to switch to the OOP paradigm
 
 **Link to work:** N/A
+
+### Day 29: October 22, 2018
+
+**Today's Progress**: I watched a talk about Puppeteer for Web Scraping and do other things, looks interesting, Oh and I wrote my first tests with Jest today !
+
+**Link to work:** N/A
