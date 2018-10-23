@@ -190,4 +190,4 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 
 **Today's Progress**: I watched a talk about Puppeteer for Web Scraping and do other things, looks interesting, Oh and I wrote my first tests with Jest today !
 
-**Link to work:** N/A
+**Link to work:** [Contribution PR - First tests with Jest](https://github.com/jamieweavis/contribution/pull/3)
