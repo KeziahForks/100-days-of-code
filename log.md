@@ -191,3 +191,18 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 **Today's Progress**: I watched a talk about Puppeteer for Web Scraping and do other things, looks interesting, Oh and I wrote my first tests with Jest today !
 
 **Link to work:** [Contribution PR - First tests with Jest](https://github.com/jamieweavis/contribution/pull/3)
+
+### Day 30: October 22, 2018
+
+**Today's Progress**: I refactored a function to allow an error handler in 3 styles : Callback, Promises and Async/Await.
+And I wrote tests for the callback and it didn't passed, I don't know why actually because it worked xD
+And finished the OOP part on FCC.
+
+**Link to work:** [Contribution PR](https://github.com/jamieweavis/contribution/pull/3)
+
+### Day 31: October 23, 2018
+
+**Today's Progress**: Learning Webpack, I love it ! Currently I added : Babel, Uglify, CSSExtract, Sourcemap. And I need to add assets (and probably others things later)
+And fixed some Jest tests, commit to a PR (Some UI improvements)
+
+**Link to work:** [Contribution PR](https://github.com/jamieweavis/contribution/pull/3) | [My Website Webpack branch](https://github.com/KeziahMoselle/keziahmoselle.github.io/tree/add-webpack)
