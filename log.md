@@ -192,7 +192,7 @@ On gelbooru-client I added the auto updater feature of Electron Builder.
 
 **Link to work:** [Contribution PR - First tests with Jest](https://github.com/jamieweavis/contribution/pull/3)
 
-### Day 30: October 22, 2018
+### Day 30: October 23, 2018
 
 **Today's Progress**: I refactored a function to allow an error handler in 3 styles : Callback, Promises and Async/Await.
 And I wrote tests for the callback and it didn't passed, I don't know why actually because it worked xD
@@ -200,9 +200,27 @@ And finished the OOP part on FCC.
 
 **Link to work:** [Contribution PR](https://github.com/jamieweavis/contribution/pull/3)
 
-### Day 31: October 23, 2018
+### Day 31: October 24, 2018
 
 **Today's Progress**: Learning Webpack, I love it ! Currently I added : Babel, Uglify, CSSExtract, Sourcemap. And I need to add assets (and probably others things later)
 And fixed some Jest tests, commit to a PR (Some UI improvements)
 
 **Link to work:** [Contribution PR](https://github.com/jamieweavis/contribution/pull/3) | [My Website Webpack branch](https://github.com/KeziahMoselle/keziahmoselle.github.io/tree/add-webpack)
+
+### Day 32: October 25, 2018
+
+**Today's Progress**: Just worked on my website, UI improvements, Add modals for projects overview and others things. Don't have much time because of studies
+
+**Link to work:** [https://keziahmoselle.github.io/](https://keziahmoselle.github.io/)
+
+### Day 33: October 26, 2018
+
+**Today's Progress**: Updating a VERY OLD project in PHP, I fixed the website, recreate the database (because I lost it one year ago) update regex (because there was web scraping). it's been a very long time since I wrote PHP
+
+**Link to work:** [osu-replay PR](https://github.com/KeziahMoselle/osu-replay/pull/3)
+
+### Day 34: October 27, 2018
+
+**Today's Progress**: I did some http://Bulma.io  for an open source project, and I worked on my website.
+
+**Link to work:** [https://keziahmoselle.github.io/](https://keziahmoselle.github.io/)
