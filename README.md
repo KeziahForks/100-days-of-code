@@ -1,6 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
-## [Click here to see my progress](log.md)
+## [Twitter log](https://twitter.com/KeziahMoselle) (Up to date)
+
+## [Click here to see my progress](log.md) (Not up to date)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@KeziahMoselle/00c3ca37-71d4-4d2d-a552-ff13f45cb3f5.png" /></a>
 
