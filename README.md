@@ -4,6 +4,9 @@
 
 ## [Click here to see my progress](log.md) (Not up to date)
 
+### Started : September 24, 2018
+### Finished : December 31, 2018
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@KeziahMoselle/00c3ca37-71d4-4d2d-a552-ff13f45cb3f5.png" /></a>
 
 ## Contents
