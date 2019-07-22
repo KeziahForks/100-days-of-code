@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-## [Twitter log](https://twitter.com/search?q=KeziahMoselle%20%23100daysofcode) (Up to date)
+## [Click here to see my progress on Twitter](https://twitter.com/search?q=KeziahMoselle%20%23100daysofcode&f=live) (Up to date)
 
 ## [Click here to see my progress](log.md) (Not up to date, only 34 days logged)
 
